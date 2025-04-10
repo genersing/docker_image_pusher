@@ -6,5 +6,7 @@ fireflyiii/core:latest
 ollama/ollama
 traffmonetizer/cli_v2:latest
 repocket/repocket:latest
+packetstream/psclient:latest
+containrrr/watchtower
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
