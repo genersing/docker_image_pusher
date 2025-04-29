@@ -13,5 +13,6 @@ wordpress:6.7.2
 roundcube/roundcubemail:1.6.10-apache
 ghcr.io/docker-mailserver/docker-mailserver:15.0.2
 n8nio/n8n:latest
+star7th/jisuxiang:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
