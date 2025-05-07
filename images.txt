@@ -11,7 +11,7 @@ traffmonetizer/cli_v2:latest
 repocket/repocket:latest
 packetstream/psclient:latest
 containrrr/watchtower
-wordpress:6.7.2
+wordpress:latest
 roundcube/roundcubemail:1.6.10-apache
 ghcr.io/docker-mailserver/docker-mailserver:15.0.2
 n8nio/n8n:latest
