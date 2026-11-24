@@ -3,16 +3,12 @@ openresty/openresty:focal
 mysql:8.4.5
 redis:latest
 postgres
-twentycrm/twenty:latest
+twentycrm/twenty
 #支持私库
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
 fireflyiii/core:latest
 ollama/ollama
-traffmonetizer/cli_v2:latest
-repocket/repocket:latest
-packetstream/psclient:latest
-containrrr/watchtower
 wordpress:latest
 roundcube/roundcubemail:1.6.10-apache
 ghcr.io/docker-mailserver/docker-mailserver:15.0.2
